@@ -30,7 +30,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone https://github.com/ahmedadel56/amazona.git
 $ cd amazona
 ```
 
